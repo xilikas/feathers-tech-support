@@ -38,7 +38,7 @@
     "cors": "^2.8.5",
     "feathers-objection": "^3.2.1",
     "helmet": "^3.18.0",
-    "knex": "^0.16.5",
+    "knex": "^0.19.5",
     "objection": "^1.6.9",
     "pg": "^7.11.0",
     "serve-favicon": "^2.5.0",
